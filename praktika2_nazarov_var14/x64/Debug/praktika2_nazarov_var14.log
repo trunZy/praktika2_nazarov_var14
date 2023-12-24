@@ -1,0 +1,4 @@
+﻿  praktika2_nazarov_var14.cpp
+C:\Users\Sorry\Downloads\praktika2_nazarov_var14\praktika2_nazarov_var14\praktika2_nazarov_var14.cpp(192,45): warning C4311: приведение типов: усечение указателя из "HMENU" в "UINT"
+C:\Users\Sorry\Downloads\praktika2_nazarov_var14\praktika2_nazarov_var14\praktika2_nazarov_var14.cpp(192,45): warning C4302: приведение типов: усечение из "HMENU" к "UINT"
+  praktika2_nazarov_var14.vcxproj -> C:\Users\Sorry\Downloads\praktika2_nazarov_var14\praktika2_nazarov_var14\x64\Debug\praktika2_nazarov_var14.exe
